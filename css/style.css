@@ -123,11 +123,8 @@ header {
 }
 
 .partner-card {
-    /* margin-bottom: 26px; */
     width: 236px;
     width: 100%;
-    /* padding-right: 50px;
-    padding-left: 50px; */
 }
 
 .partner-photo {
@@ -245,12 +242,6 @@ header {
         padding: 50px 50px 50px 50px;
     }
 
-    /* .header-wrap {
-        display: flex;
-        justify-content: space-between;
-        flex-direction: row-reverse;
-    } */
-
     .login-links {
         margin: 0px;
         padding: 0px;
@@ -293,12 +284,6 @@ header {
         width: 100%;
         padding: 50px 0px 50px 50px;
     }
-
-    /* .header-wrap { 
-        display: flex;
-        justify-content: space-between;
-        flex-direction: row-reverse;
-    } */
 
     .login-links {
         margin: 0px;
